@@ -1,12 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
-		<Title>WPFControls Core</Title>
-		<Description>General-purpose classes and core functionality for some custom WPF controls.</Description>
+		<Title>WpfControls Core</Title>
+		<Description>Common code for a collection of custom WPF controls</Description>
 		<Authors>Tyler Wilson</Authors>
 		<Company></Company>
         <Copyright>Tyler Wilson, 2021</Copyright>		
 		<AssemblyName>WPFControls.Core</AssemblyName>
-		<RepositoryUrl>https://github.com/7imekeeper/WpfControls.ColorPicker</RepositoryUrl>
+		<RepositoryUrl>https://github.com/7imekeeper/WpfControls.Core</RepositoryUrl>
 		<PackageProjectUrl>$(RepositoryUrl)</PackageProjectUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -52,4 +52,3 @@
 		</None>
 	</ItemGroup>
 </Project>
-
