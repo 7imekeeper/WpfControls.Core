@@ -9,7 +9,6 @@
 		<Copyright>Tyler Wilson, 2021</Copyright>		
 		<AssemblyName>WPFControls.Core</AssemblyName>
 		<RepositoryUrl>https://github.com/7imekeeper/WpfControls.Core</RepositoryUrl>
-		<AssemblyInformationalVersion>$(PackageVersion)</AssemblyInformationalVersion>
 		<RootNamespace>WpfControls</RootNamespace>
 
 		<UseWPF>true</UseWPF>
